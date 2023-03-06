@@ -1,5 +1,8 @@
 # LemonDB Recovered Files
 
+# Honor Code Pledge
+If there is similar course materials assigned in the future, it is the responsibility of JI students not to copy or modify these codes, or other files because it is against the Honor Code. The owner of this repository doesn't take any commitment for other's faults.
+
 ## Introduction
 
 - ./src
@@ -28,6 +31,7 @@ Hint on using `ClangFormat`:
 And make sure your code editor has `EditorConfig` support.
 
 [![Build Status](https://focs.ji.sjtu.edu.cn:2222/api/badges/ECE482-22/p2team-02/status.svg)](https://focs.ji.sjtu.edu.cn:2222/ECE482-22/p2team-02)
+
 ## Copyright
 
 Lemonion Inc. 2018
